@@ -1,9 +1,11 @@
 # 🔢 Num2Word IT 🇮🇹 – Dai voce ai numeri!  
 
+Questo notebook implementa un convertitore di numeri in parole (0-999.999) in italiano, utilizzando una logica di scomposizione gerarchica.
+
 **📢 Trasforma i numeri in parole, con stile!**  
 
 Hai mai avuto bisogno di scrivere un numero a parole in italiano? **Ora è facilissimo!**  
-Con **Num2Word IT**, puoi convertire qualsiasi numero intero tra **0 e 999.999** in testo, perfetto per documenti, assistenti vocali, progetti di AI e molto altro!  
+Con **Num2Word IT**, puoi convertire qualsiasi numero intero tra **0 e 999.999** in testo, perfetto per documenti, assistenti vocali, progetti AI e molto altro!  
 
 ---
 
